@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Googlemap 0.8.7
+# Googlemap 
 
 Google-Karte einbinden.
 
@@ -53,7 +53,7 @@ Die folgenden Einstellungen können in der Datei `system/extensions/yellow-syste
 
 ## Installation
 
-[Erweiterung herunterladen](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/googlemap.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
+[Erweiterung herunterladen](https://github.com/annaesvensson/yellow-googlemap/archive/main.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
 
 Diese Erweiterung verwendet [Google-Maps](https://maps.google.com/). Der Dienstanbieter sammelt personenbezogene Daten und benutzt Cookies.
 

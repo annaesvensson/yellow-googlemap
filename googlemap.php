@@ -1,5 +1,5 @@
 <?php
-// Googlemap extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/googlemap
+// Googlemap extension, https://github.com/annaesvensson/yellow-googlemap
 
 class YellowGooglemap {
     const VERSION = "0.8.7";
