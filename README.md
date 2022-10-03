@@ -59,4 +59,4 @@ This extension uses [Google Maps](https://maps.google.com/). The service provide
 
 ## Developer
 
-Datenstrom. [Get help](https://datenstrom.se/yellow/help/).
+Anna Svensson. [Get help](https://datenstrom.se/yellow/help/).

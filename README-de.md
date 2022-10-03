@@ -59,4 +59,4 @@ Diese Erweiterung verwendet [Google-Maps](https://maps.google.com/). Der Diensta
 
 ## Entwickler
 
-Datenstrom. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
+Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
