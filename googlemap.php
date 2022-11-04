@@ -2,7 +2,7 @@
 // Googlemap extension, https://github.com/annaesvensson/yellow-googlemap
 
 class YellowGooglemap {
-    const VERSION = "0.8.7";
+    const VERSION = "0.8.8";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -17,8 +17,8 @@ class YellowGooglemap {
         $output = null;
         if ($name=="googlemap" && ($type=="block" || $type=="inline")) {
             list($address, $zoom, $style, $width, $height) = $this->yellow->toolbox->getTextArguments($text);
-            if (empty($zoom)) $zoom = $this->yellow->system->get("googlemapZoom");
-            if (empty($style)) $style = $this->yellow->system->get("googlemapStyle");
+            if (is_string_empty($zoom)) $zoom = $this->yellow->system->get("googlemapZoom");
+            if (is_string_empty($style)) $style = $this->yellow->system->get("googlemapStyle");
             $language = $page->get("language");
             $output = "<div class=\"".htmlspecialchars($style)."\">";
             $output .= "<iframe src=\"https://maps.google.com/maps?q=".rawurlencode($address)."&amp;ie=UTF8&amp;t=m&amp;z=".rawurlencode($zoom)."&amp;hl=$language&amp;iwloc=near&amp;num=1&amp;output=embed\" frameborder=\"0\"";
