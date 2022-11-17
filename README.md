@@ -18,6 +18,8 @@ The following arguments are available, all but the first argument are optional:
 `Width` = map width, pixel or percent  
 `Height` = map height, pixel or percent  
 
+You should know that the service provider collects personal data and uses cookies.
+
 ## Examples
 
 Embedding a map, different addresses:
@@ -51,11 +53,13 @@ The following settings can be configured in file `system/extensions/yellow-syste
 `GooglemapZoom` = zoom value  
 `GooglemapStyle` = map style, e.g. `flexible`  
 
+## Acknowledgments
+
+This extension uses [Google Maps](https://maps.google.com/). Thank you for the free service.
+
 ## Installation
 
 [Download extension](https://github.com/annaesvensson/yellow-googlemap/archive/main.zip) and copy ZIP file into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
-
-This extension uses [Google Maps](https://maps.google.com/). The service provider collects personal data and uses cookies.
 
 ## Developer
 

@@ -18,6 +18,8 @@ Die folgenden Argumente sind verfügbar, alle bis auf das erste Argument sind op
 `Width` = Kartenbreite, Pixel oder Prozent  
 `Height` = Kartenhöhe, Pixel oder Prozent  
 
+Du solltest wissen, dass der Dienstanbieter personenbezogene Daten sammelt und Cookies benutzt.
+
 ## Beispiele
 
 Karte einbinden, unterschiedliche Adressen:
@@ -51,11 +53,13 @@ Die folgenden Einstellungen können in der Datei `system/extensions/yellow-syste
 `GooglemapZoom` = Zoomwert  
 `GooglemapStyle` = Kartenstil, z.B. `flexible`  
 
+## Danksagung
+
+Diese Erweiterung verwendet [Google-Maps](https://maps.google.com/). Danke für den kostenlosen Service.
+
 ## Installation
 
 [Erweiterung herunterladen](https://github.com/annaesvensson/yellow-googlemap/archive/main.zip) und die ZIP-Datei in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
-
-Diese Erweiterung verwendet [Google-Maps](https://maps.google.com/). Der Dienstanbieter sammelt personenbezogene Daten und benutzt Cookies.
 
 ## Entwickler
 

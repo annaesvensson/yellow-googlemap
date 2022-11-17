@@ -18,6 +18,8 @@ Följande argument är tillgängliga, alla utom det första argumentet är valfr
 `Width` = kartbredd, pixel eller procent  
 `Height` = karthöjd, pixel eller procent  
 
+Du bör veta att tjänsteleverantören samlar in personuppgifter och använder cookies.
+
 ## Exempel
 
 Bädda in en karta, olika adresser:
@@ -51,11 +53,13 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 `GooglemapZoom` = zoomvärde  
 `GooglemapStyle` = kartstil, t.ex. `flexible`  
 
+## Tack
+
+Detta tilläg använder [Google-Maps](https://maps.google.com/). Tack för den kostnadsfria tjänsten.
+
 ## Installation
 
 [Ladda ner tillägg](https://github.com/annaesvensson/yellow-googlemap/archive/main.zip) och kopiera ZIP-fil till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
-
-Detta tilläg använder [Google-Maps](https://maps.google.com/). Tjänsteleverantören samlar in personuppgifter och använder cookies.
 
 ## Utvecklare
 
