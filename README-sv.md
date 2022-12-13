@@ -6,6 +6,10 @@ Bädda in Google-karta.
 
 <p align="center"><img src="googlemap-screenshot.png?raw=true" alt="Skärmdump"></p>
 
+## Hur man installerar ett tillägg
+
+[Ladda ner ZIP-filen](https://github.com/annaesvensson/yellow-googlemap/archive/main.zip) och kopiera den till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
+
 ## Hur man bäddar in en karta
 
 Skapa en `[googlemap]` förkortning.
@@ -56,10 +60,6 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 ## Tack
 
 Detta tilläg använder [Google-Maps](https://maps.google.com/). Tack för den kostnadsfria tjänsten.
-
-## Installation
-
-[Ladda ner tillägg](https://github.com/annaesvensson/yellow-googlemap/archive/main.zip) och kopiera ZIP-fil till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
 
 ## Utvecklare
 

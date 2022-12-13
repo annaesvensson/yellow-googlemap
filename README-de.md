@@ -6,6 +6,10 @@ Google-Karte einbinden.
 
 <p align="center"><img src="googlemap-screenshot.png?raw=true" alt="Bildschirmfoto"></p>
 
+## Wie man eine Erweiterung installiert
+
+[ZIP-Datei herunterladen](https://github.com/annaesvensson/yellow-googlemap/archive/main.zip) und in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
+
 ## Wie man eine Karte einbindet
 
 Erstelle eine `[googlemap]`-Abkürzung.
@@ -56,10 +60,6 @@ Die folgenden Einstellungen können in der Datei `system/extensions/yellow-syste
 ## Danksagung
 
 Diese Erweiterung verwendet [Google-Maps](https://maps.google.com/). Danke für den kostenlosen Service.
-
-## Installation
-
-[Erweiterung herunterladen](https://github.com/annaesvensson/yellow-googlemap/archive/main.zip) und die ZIP-Datei in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
 
 ## Entwickler
 
