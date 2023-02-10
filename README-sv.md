@@ -59,7 +59,7 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 
 ## Tack
 
-Detta tilläg använder [Google-Maps](https://maps.google.com/). Tack för den kostnadsfria tjänsten.
+Detta tillägg använder [Google-Maps](https://maps.google.com/). Tack för den kostnadsfria tjänsten.
 
 ## Utvecklare
 
