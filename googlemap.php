@@ -2,7 +2,7 @@
 // Googlemap extension, https://github.com/annaesvensson/yellow-googlemap
 
 class YellowGooglemap {
-    const VERSION = "0.8.9";
+    const VERSION = "0.8.10";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -12,8 +12,8 @@ class YellowGooglemap {
         $this->yellow->system->setDefault("googlemapStyle", "flexible");
     }
     
-    // Handle page content of shortcut
-    public function onParseContentShortcut($page, $name, $text, $type) {
+    // Handle page content element
+    public function onParseContentElement($page, $name, $text, $attributes, $type) {
         $output = null;
         if ($name=="googlemap" && ($type=="block" || $type=="inline")) {
             list($address, $zoom, $style, $width, $height) = $this->yellow->toolbox->getTextArguments($text);
