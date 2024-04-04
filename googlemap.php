@@ -2,7 +2,7 @@
 // Googlemap extension, https://github.com/annaesvensson/yellow-googlemap
 
 class YellowGooglemap {
-    const VERSION = "0.8.10";
+    const VERSION = "0.9.1";
     public $yellow;         // access to API
     
     // Handle initialisation
